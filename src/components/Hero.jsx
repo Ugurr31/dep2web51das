@@ -21,7 +21,7 @@ export default function Example() {
                 Türkiye'de gerçekleşen 7.7 ve 7.6 büyüklüğündeki depremler nedeniyle toplanan bilim ve teknoloji ağırlıklı kanallar, depremzedelere destek veriyor.
               </p>
               <h2 className="mt-4 font-bold tracking-tight text-cyan-500 sm:text-3xl">8 Şubat 2023<span className="text-light"> tarihinden itibaren</span></h2>
-              <h2 className="mt-4 font-bold tracking-tight text-light sm:text-3xl">Toplanan Bağış: <span className="text-ahbap">$470.635,00</span></h2>
+              <h2 className="mt-4 font-bold tracking-tight text-light sm:text-3xl">Toplanan Bağış: <span className="text-ahbap">$6.000.470.635</span></h2>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
                   href="https://ahbap.org/bagisci-ol"
