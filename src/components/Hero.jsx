@@ -7,7 +7,7 @@ export default function Example() {
             <div className="hidden sm:mb-8 sm:flex sm:justify-center">
               <div className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-300 ring-1 ring-gray-100/10 hover:ring-gray-900/20">
                 Deprem Dayanışma Youtube {' '}
-                <a href="https://www.youtube.com/watch?v=4E7bI1oeXQY" className="font-semibold text-youtube">
+                <a href="https://www.youtube.com/watch?v=qQAZNLGPdmI&list=PLaKLxbauAT7GElxFLUOw4EuZeBjnL4EFf&ab_channel=Bar%C4%B1%C5%9F%C3%96zcan" className="font-semibold text-youtube">
                   <span className="absolute inset-0" aria-hidden="true" />
                   Canlı Yayın <span aria-hidden="true">&rarr;</span>
                 </a>
